@@ -12,3 +12,8 @@
 - [Portfolio](https://yourportfolio.com)
 - [Email](mailto:abhiramkosuru967@gmail.com)
 
+![Java](https://img.shields.io/badge/Code-Java-blue)
+![Docker](https://img.shields.io/badge/DevOps-Docker-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+![React](https://img.shields.io/badge/Frontend-React-blueviolet)
+
