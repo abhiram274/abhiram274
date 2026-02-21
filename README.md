@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=800&color=00FF9D&center=true&vCenter=true&width=800&lines=Hello!+I'm+Abhiram+Kosuru+👋;Full-Stack+%26+Backend+Developer;DevOps+%26+Cloud+Enthusiast;AI%2FML+%26+Cybersecurity+Learner" alt="Animated Typing Title" />
+  <!-- Animated Typing Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=800&color=00FF9D&center=true&vCenter=true&width=800&lines=Hello!+I'm+Abhiram+Kosuru+👋;Full-Stack+%26+Backend+Developer;DevOps+%26+Cloud+Enthusiast;AI%2FML+%26+Cybersecurity+Learner" alt="Typing Animation" />
 </div>
 
 <br>
 
 <div align="center">
+  <!-- Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=240&section=header&text=Abhiram+Kosuru&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&fontAlign=center" alt="Advanced Waving Header" />
 </div>
 
 <p align="center">
+  <!-- Profile Counters -->
   <img src="https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=00FF9D&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abhiram274?color=00C853&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/abhiram274?style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
@@ -16,7 +19,7 @@
 
 ---
 
-<h2 align="center">🔥 About Me</h2>
+## 🔥 About Me
 
 🌟 Backend-Focused Full-Stack Developer | DevOps Enthusiast | AI/ML & Cybersecurity Explorer  
 🛠️ Passionate about building scalable, secure, and performant applications  
@@ -92,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Coding Animation">
 </p>
 
-<p align="center">Thanks for visiting my profile! 🚀 Feel free to explore my repositories or reach out — let's collaborate on something awesome.</p>
+<p align="center">✨ Thanks for visiting my profile! 🚀 Feel free to explore my repositories or reach out — let's collaborate on something awesome.</p>
