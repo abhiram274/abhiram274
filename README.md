@@ -29,23 +29,31 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center">⚡ Tech Stack & Tools</h2>
 
+<!-- Animated Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,ts,python,c,cpp,docker,aws,gcp,linux,git,github,jenkins,nginx,mysql,postgres,mongodb,postman,vscode,idea,firebase&perline=10" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,react,nextjs,nodejs,ts,docker,aws,gcp,linux,git,github,jenkins,nginx,mysql,postgres,mongodb,vscode,idea&perline=8" alt="Tech Stack Icons" />
 </p>
 
+<!-- Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-Advanced-green?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Advanced-blueviolet?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20EC2-Advanced-orange?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-yellow?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-Advanced-yellow?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C++-Strong-green?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Advanced-green?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Advanced-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-yellow?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-red?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" />
+</div>
 
 ---
 
@@ -99,3 +107,4 @@
 </p>
 
 <p align="center">✨ Thanks for visiting my profile! 🚀 Feel free to explore my repositories or reach out — let's collaborate on something awesome.</p>
+
