@@ -89,8 +89,8 @@ status      : open to backend, AI/ML, and DevOps roles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00ff87&icon_color=00ff87&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" width="40%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=abhiram274&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=github-compact&hide_border=true&color=00ff87&line=00ff87&point=ffffff&area=true&area_color=00ff8720" width="90%" />
 
 </div>
 
