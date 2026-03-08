@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00ff87,100:0a0a0a&height=200&section=header&text=Abhiram%20Kosuru&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20%7C%20DevOps%20%7C%20Cloud%20%7C%20AI%2FML&descAlignY=78&descSize=22&descColor=00ff87" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00ff87,100:0a0a0a&height=200&section=header&text=Abhiram%20Kosuru&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%2FML%20Student%20%7C%20Backend%20Dev%20%7C%20DevOps%20%7C%20Cloud&descAlignY=78&descSize=22&descColor=00ff87" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+%26+secure+systems+%F0%9F%9B%A1%EF%B8%8F;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+AWS;200%2B+LeetCode+%7C+Graphs+%26+DP+Specialist;Open+to+collabs+%26+backend+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=650&lines=Backend+Dev+%7C+AI%2FML+Student+%7C+DevOps+Explorer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Docker;Training+models+%26+shipping+backends;200%2B+LeetCode+%7C+Graphs+%26+DP)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,21 +26,35 @@
 ## 🧠 About Me
 
 ```yaml
-name       : Abhiram Kosuru
-role       : Full-Stack & Backend Developer
-focus      : Scalable • Secure • High-Performance Systems
-core_stack : [Java, Spring Boot, React, Next.js, Docker, AWS, CI/CD]
-security   : [Cloud Security, Firewalls, IDS/IPS, Secure SDLC]
-dsa        : 200+ LeetCode | Graphs & Dynamic Programming
-interests  : [DevOps, Cloud Architecture, AI/ML, Cybersecurity]
-status     : Open to backend & DevOps opportunities
+name        : Abhiram Kosuru
+currently   : AI/ML Student + Backend Developer
+building    : systems that are secure, fast, and actually work
+ml_stack    : [Python, PyTorch, scikit-learn, NumPy, Pandas, OpenCV]
+ml_focus    : [Computer Vision, NLP, Model Deployment, MLOps]
+backend     : [Java, Spring Boot, REST APIs, Microservices, Docker, AWS]
+frontend    : [React, Next.js, TypeScript]
+devops      : [GitHub Actions, Jenkins, Linux, Nginx, CI/CD]
+dsa         : 200+ LeetCode — Graphs & Dynamic Programming
+security    : [Cloud Security, IDS/IPS, Secure SDLC, Firewalls]
+status      : open to backend, AI/ML, and DevOps roles
 ```
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages & Frameworks**
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Languages & Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -100,11 +114,11 @@ status     : Open to backend & DevOps opportunities
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description |
+| Project | Stack | What it does |
 |---|---|---|
-| [**Placement Tracker**](https://github.com/abhiram274/Placement-Tracker) | `Java` `Spring Boot` `React` | Full-stack placement management system with role-based access |
-| [**LunaBot**](https://github.com/abhiram274/LunaBot) | `ROS2` `YOLO` `Python` | Autonomous robot with real-time object detection |
-| [**E-Learning Marketplace**](https://github.com/satya-datta/ReadGro) | `Next.js` `TypeScript` | Scalable e-learning platform with modern UI/UX |
+| [**Placement Tracker**](https://github.com/abhiram274/Placement-Tracker) | `Java` `Spring Boot` `React` | Placement management system with role-based access control |
+| [**LunaBot**](https://github.com/abhiram274/LunaBot) | `ROS2` `YOLO` `Python` `OpenCV` | Autonomous robot using real-time object detection with YOLO |
+| [**E-Learning Marketplace**](https://github.com/satya-datta/ReadGro) | `Next.js` `TypeScript` | E-learning platform with course management and clean UI |
 
 ---
 
