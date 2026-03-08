@@ -1,107 +1,142 @@
 <div align="center">
-  <!-- Epic Neon Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=600&color=00FFAA&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Abhiram+Kosuru+👋;Full-Stack+%26+Backend+Developer;DevOps+%2F+Cloud+%2F+AI%2FML+Explorer;Building+scalable+secure+systems+with+passion" alt="Epic Neon Typing" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00ff87,100:0a0a0a&height=200&section=header&text=Abhiram%20Kosuru&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20%7C%20DevOps%20%7C%20Cloud%20%7C%20AI%2FML&descAlignY=78&descSize=22&descColor=00ff87" />
 
-<!-- Futuristic Gradient Wave Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Abhiram+Kosuru&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=50&fontAlign=center&desc=Full-Stack+%7C+DevOps+%7C+Cybersecurity+%7C+AI%2FML&descAlign=62&descAlignY=75&descSize=28" alt="Futuristic Wave Header" />
-</div>
-
-<!-- Floating Neon Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=00FFAA&style=for-the-badge&logo=starship" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhiram274?color=00FF9D&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abhiram274?color=FFD700&label=Stars&logo=github&style=for-the-badge" alt="Stars" />
-</p>
-
-<!-- About Me with Glow -->
-<h2 align="center">🌌 About Me</h2>
-
-<p align="center">
-  <strong style="font-size:1.3em;color:#00FF9D">Backend-Focused Full-Stack Developer</strong> | DevOps & Cloud Enthusiast | AI/ML & Cybersecurity Explorer<br><br>
-  🛠️ Passionate about <strong>scalable</strong>, <strong>secure</strong>, and <strong>high-performance</strong> systems<br>
-  💻 Core Tech: Java • Spring Boot • React/Next.js • Docker • AWS EC2 • GitHub Actions • CI/CD<br>
-  🔒 Deep Dive: Cloud Security • Firewalls • IDS/IPS • Secure SDLC<br>
-  🏆 200+ LeetCode solved — Graphs & Dynamic Programming specialist
-</p>
-
-<!-- Animated Skills Section -->
-<h2 align="center">⚡ Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,ts,python,docker,aws,gcp,linux,git,github,jenkins,nginx,mysql,postgres,mongodb,postman,vscode,idea,firebase&perline=11" alt="Animated Skill Icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-Advanced-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-Advanced-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
-
-<!-- GitHub Stats – Neon Glow Theme -->
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs,reviews,contribs,issues" width="50%" alt="Advanced GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=compact&theme=radical&hide_border=true&langs_count=10" width="40%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram274&theme=radical&hide_border=true&fire=FF4444&ring=00FF9D&dates=ffffff" width="50%" alt="Contribution Streak Fire" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=radical&no-frame=true&margin-w=15&row=1&column=7&title_color=00FF9D&text_color=ffffff&icon_color=FFD700" width="50%" alt="Neon Trophies" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+%26+secure+systems+%F0%9F%9B%A1%EF%B8%8F;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+AWS;200%2B+LeetCode+%7C+Graphs+%26+DP+Specialist;Open+to+collabs+%26+backend+opportunities)](https://git.io/typing-svg)
+
 </div>
 
-<!-- Contribution Snake – Enhanced -->
-<h2 align="center">🐍 Live Contribution Snake</h2>
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake.svg" width="85%" />
-  </picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=00ff87&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/abhiram274?style=flat-square&color=00ff87&logo=github&label=Followers)](https://github.com/abhiram274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff5722?style=flat-square&logo=vercel)](https://abhiram-portfolio-six.vercel.app)
+
 </div>
 
-<p align="center"><i>Real-time snake animation – updates automatically</i></p>
+---
 
-<!-- Featured Projects – Card Style -->
-<h2 align="center">🚀 Featured Projects</h2>
+## 🧠 About Me
 
-<p align="center">
-  <a href="https://github.com/abhiram274/Placement-Tracker">
-    <img src="https://img.shields.io/badge/Placement%20Tracker-Java%20%2F%20Spring%20Boot-blue?style=for-the-badge&logo=github" alt="Placement Tracker" />
-  </a>
-  <a href="https://github.com/abhiram274/LunaBot">
-    <img src="https://img.shields.io/badge/LunaBot-ROS+%2F+YOLO-green?style=for-the-badge&logo=github" alt="LunaBot" />
-  </a>
-  <a href="https://github.com/satya-datta/ReadGro">
-    <img src="https://img.shields.io/badge/E-Learning%20Marketplace-Next.js-black?style=for-the-badge&logo=github" alt="E-Learning Platform" />
-  </a>
-</p>
+```yaml
+name       : Abhiram Kosuru
+role       : Full-Stack & Backend Developer
+focus      : Scalable • Secure • High-Performance Systems
+core_stack : [Java, Spring Boot, React, Next.js, Docker, AWS, CI/CD]
+security   : [Cloud Security, Firewalls, IDS/IPS, Secure SDLC]
+dsa        : 200+ LeetCode | Graphs & Dynamic Programming
+interests  : [DevOps, Cloud Architecture, AI/ML, Cybersecurity]
+status     : Open to backend & DevOps opportunities
+```
 
-<!-- Connect Section – Neon Buttons -->
-<h2 align="center">📡 Let's Connect</h2>
+---
+
+## ⚡ Tech Stack
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhiram-kosuru-7974b6231">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhiramkosuru967@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/abhiram274">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://abhiram-portfolio-six.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00ff87&icon_color=00ff87&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" width="40%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhiram274&theme=github-dark-blue&hide_border=true&fire=00ff87&ring=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" width="50%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=gitdimmed&no-frame=true&margin-w=8&row=1&column=7" width="90%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [**Placement Tracker**](https://github.com/abhiram274/Placement-Tracker) | `Java` `Spring Boot` `React` | Full-stack placement management system with role-based access |
+| [**LunaBot**](https://github.com/abhiram274/LunaBot) | `ROS2` `YOLO` `Python` | Autonomous robot with real-time object detection |
+| [**E-Learning Marketplace**](https://github.com/satya-datta/ReadGro) | `Next.js` `TypeScript` | Scalable e-learning platform with modern UI/UX |
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake-dark.svg" width="80%" alt="contribution snake" />
+</picture>
+
+</div>
+
+---
+
+## 📡 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram_Kosuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
+[![Gmail](https://img.shields.io/badge/Gmail-abhiramkosuru967-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramkosuru967@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abhiram274-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram274)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiram-portfolio-six.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff87&height=100&section=footer&reversal=false" />
+
 </div>
