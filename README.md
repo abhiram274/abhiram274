@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=650&lines=Backend+Dev+%7C+AI%2FML+Student+%7C+DevOps+Explorer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Docker;Training+models+%26+shipping+backends;250%2B+LeetCode+%7C+Graphs+%26+DP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=650&lines=Backend+Dev+%7C+AI%2FML+Student+%7C+DevOps+Explorer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Docker;Training+models+%26+shipping+backends;200%2B+LeetCode+%7C+Graphs+%26+DP)](https://git.io/typing-svg)
 
 </div>
 
@@ -124,22 +124,23 @@ status      : open to backend, AI/ML, and DevOps roles
 
 ---
 
-## 📈 LeetCode Progress
+## 🧩 DSA Progress
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhiram274)
-[![Focus](https://img.shields.io/badge/Focus-Graphs_%26_DP-00ff87?style=for-the-badge&logo=leetcode&logoColor=black)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhiram274)
+[![Strength](https://img.shields.io/badge/Strength-Graphs_%26_Trees-00ff87?style=for-the-badge)]()
 
-| Topic | Status |
+| Topic | Progress |
 |---|---|
-| Arrays & Hashing | ✅ Done |
-| Two Pointers / Sliding Window | ✅ Done |
-| Binary Search | ✅ Done |
-| Trees & Graphs | ✅ Active focus |
-| Dynamic Programming | ✅ Active focus |
-| Backtracking | 🔄 In progress |
-| Heap / Priority Queue | 🔄 In progress |
+| Arrays & Hashing | ✅ Solid |
+| Two Pointers | ✅ Solid |
+| Binary Search | ✅ Solid |
+| Sliding Window | 🔄 Getting better |
+| Trees & Graphs | ✅ Strong — main focus |
+| Backtracking | ✅ Understand it well |
+| Heap / Priority Queue | 🔄 Getting better |
+| Dynamic Programming | 🛠️ Working on it |
 
 </div>
 
