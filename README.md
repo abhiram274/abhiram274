@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=650&lines=Backend+Dev+%7C+AI%2FML+Student+%7C+DevOps+Explorer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Docker;Training+models+%26+shipping+backends;200%2B+LeetCode+%7C+Graphs+%26+DP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&width=650&lines=Backend+Dev+%7C+AI%2FML+Student+%7C+DevOps+Explorer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Docker;Training+models+%26+shipping+backends;250%2B+LeetCode+%7C+Graphs+%26+DP)](https://git.io/typing-svg)
 
 </div>
 
@@ -102,13 +102,15 @@ status      : open to backend, AI/ML, and DevOps roles
 
 ---
 
-## 🏆 Achievements
+## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=gitdimmed&no-frame=true&margin-w=8&row=1&column=7" width="90%" />
-
-</div>
+```
+🤖  Deep Learning         → CNNs, RNNs, Transformers, Attention Mechanisms
+🧬  NLP                   → LLMs, Fine-tuning, RAG pipelines
+👁️  Computer Vision       → Object Detection, Segmentation, YOLO variants
+☁️  MLOps                 → Model deployment, Docker + AWS, experiment tracking
+🔐  Cloud Security        → IAM, threat modeling, secure infrastructure
+```
 
 ---
 
@@ -122,15 +124,22 @@ status      : open to backend, AI/ML, and DevOps roles
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 LeetCode Progress
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/abhiram274/abhiram274/output/github-snake-dark.svg" width="80%" alt="contribution snake" />
-</picture>
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhiram274)
+[![Focus](https://img.shields.io/badge/Focus-Graphs_%26_DP-00ff87?style=for-the-badge&logo=leetcode&logoColor=black)]()
+
+| Topic | Status |
+|---|---|
+| Arrays & Hashing | ✅ Done |
+| Two Pointers / Sliding Window | ✅ Done |
+| Binary Search | ✅ Done |
+| Trees & Graphs | ✅ Active focus |
+| Dynamic Programming | ✅ Active focus |
+| Backtracking | 🔄 In progress |
+| Heap / Priority Queue | 🔄 In progress |
 
 </div>
 
