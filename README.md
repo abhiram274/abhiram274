@@ -106,10 +106,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML stack" />
 
 <br>
 
@@ -130,10 +127,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
 
 </div>
 
@@ -143,10 +137,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,jenkins,linux,nginx&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,jenkins,linux,nginx&theme=dark" alt="DevOps & Cloud stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,jenkins,linux,nginx&theme=dark" alt="DevOps & Cloud stack" />
 
 <br>
 
@@ -160,10 +151,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,firebase,postman,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,firebase,postman,git&theme=dark" alt="Databases & Tools stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,firebase,postman,git&theme=dark" alt="Databases & Tools stack" />
 
 </div>
 
