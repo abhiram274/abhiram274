@@ -115,9 +115,9 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FFD21E&labelColor=0a0a0a)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0a0a0a)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logoColor=00ff87&labelColor=0a0a0a)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0a0a0a?style=for-the-badge&logoColor=00fff2&labelColor=0a0a0a)
-![AI Frameworks](https://img.shields.io/badge/AI_Frameworks-0a0a0a?style=for-the-badge&logoColor=ff00c8&labelColor=0a0a0a)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=00ff87&labelColor=0a0a0a)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0a0a0a?style=for-the-badge&logo=openai&logoColor=00fff2&labelColor=0a0a0a)
+![AI Frameworks](https://img.shields.io/badge/AI_Frameworks-0a0a0a?style=for-the-badge&logo=onnx&logoColor=ff00c8&labelColor=0a0a0a)
 
 </div>
 
@@ -147,7 +147,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <br>
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0a0a?style=for-the-badge&logoColor=00fff2&labelColor=0a0a0a)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0a0a?style=for-the-badge&logo=githubactions&logoColor=00fff2&labelColor=0a0a0a)
 
 </div>
 
@@ -260,7 +260,7 @@ E-learning platform with course management and clean UI.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhiram274)
-[![Strength](https://img.shields.io/badge/Strength-Graphs_%26_Trees-0a0a0a?style=for-the-badge&logoColor=00ff87&labelColor=0a0a0a)]()
+[![Strength](https://img.shields.io/badge/Strength-Graphs_%26_Trees-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00ff87&labelColor=0a0a0a)]()
 
 | Topic | Progress |
 |---|---|
