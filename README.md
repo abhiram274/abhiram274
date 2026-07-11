@@ -44,11 +44,34 @@
 
 ---
 
+<!-- 💼 LINKEDIN HIGHLIGHT BAR (glacier theme) -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:4facfe,100:0a0a0a&height=130&section=header&text=Abhiram%20Kosuru%20%7C%20LinkedIn&fontSize=20&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Let%27s%20Connect%20%E2%80%A2%20Open%20to%20Work%20%E2%80%A2%20Backend%20%26%20AI%2FML&descAlignY=62&descSize=13&descColor=ffffff&width=1000" />
+
+</div>
+
+<div align="center">
+
+![Connect](https://img.shields.io/badge/🔗_Connect-0a0a0a?style=for-the-badge&logoColor=4facfe&labelColor=0a0a0a)
+![Open To Work](https://img.shields.io/badge/Open_To_Work-0a0a0a?style=for-the-badge&logoColor=00f2fe&labelColor=0a0a0a)
+![Message](https://img.shields.io/badge/📩_Message_Me-0a0a0a?style=for-the-badge&logoColor=ffffff&labelColor=0a0a0a)
+
+<br>
+
+<a href="https://www.linkedin.com/in/abhiram-kosuru-7974b6231/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:00f2fe,100:0a0a0a&height=78&section=header&text=%F0%9F%A4%9D%20CONNECT%20ON%20LINKEDIN&fontSize=28&fontColor=0a0a0a&fontAlignY=65&animation=twinkle&width=800" alt="Abhiram Kosuru | LinkedIn" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=0a0a0a&style=flat-square)
 [![GitHub Followers](https://img.shields.io/github/followers/abhiram274?style=flat-square&color=0a0a0a&logo=github&logoColor=00ff87&label=Followers&labelColor=0a0a0a)](https://github.com/abhiram274)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-kosuru-7974b6231/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0a0a0a?style=flat-square&logo=vercel&logoColor=00ff87)](https://abhiram-portfolio-six.vercel.app)
 
 </div>
@@ -185,21 +208,12 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff87&icon_color=00fff2&text_color=e6e6e6&ring_color=ff00c8&rank_icon=github&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&hide_border=true&border_radius=12&bg_color=ffffff&title_color=006644&icon_color=8000ff&text_color=24292f&ring_color=ff00c8&rank_icon=github&count_private=true" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiram274&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut-vertical&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00fff2&text_color=e6e6e6&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut-vertical&hide_border=true&border_radius=12&bg_color=ffffff&title_color=8000ff&text_color=24292f&langs_count=8" width="30%" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=dracula&hide_border=true&bg_color=0d1117&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=default&hide_border=true&bg_color=ffffff&area=true" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut&theme=dracula&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut&theme=default&hide_border=true&langs_count=8" width="30%" />
 </picture>
 
 </div>
@@ -207,7 +221,16 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhiram274&theme=dracula&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=default&hide_border=true" width="90%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhiram274&theme=dracula&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=abhiram274&theme=default&hide_border=true" width="50%" />
 </picture>
 
@@ -216,8 +239,8 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiram274&theme=flat&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="95%" />
 </picture>
 
 </div>
