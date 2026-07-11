@@ -19,7 +19,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff87,100:0a0a0a&height=70&section=header&text=%F0%9F%9A%80%20View%20My%20Full%20Portfolio&fontSize=26&fontColor=0a0a0a&fontAlignY=65&animation=twinkle&width=800" alt="Abhiram Kosuru Portfolio | Full Stack Developer | AI/ML Specialist | Abhi Portfolio" />
 </a>
 
-**[Abhiram Kosuru Portfolio | Full Stack Developer | AI/ML Specialist | Abhi Portfolio →](https://abhiram-portfolio-six.vercel.app/)**
+<a href="https://abhiram-portfolio-six.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:00fff2&height=40&section=header&text=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Specialist%20%E2%80%A2%20Abhi%20Portfolio&fontSize=14&fontColor=00ff87&animation=fadeIn&fontAlignY=60&width=800" alt="Abhiram Kosuru Portfolio | Full Stack Developer | AI/ML Specialist | Abhi Portfolio" />
+</a>
 
 </div>
 
@@ -27,10 +29,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=00ff87&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/abhiram274?style=flat-square&color=00ff87&logo=github&label=Followers)](https://github.com/abhiram274)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff5722?style=flat-square&logo=vercel)](https://abhiram-portfolio-six.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=0a0a0a&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/abhiram274?style=flat-square&color=0a0a0a&logo=github&logoColor=00ff87&label=Followers&labelColor=0a0a0a)](https://github.com/abhiram274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0a0a0a?style=flat-square&logo=vercel&logoColor=00ff87)](https://abhiram-portfolio-six.vercel.app)
 
 </div>
 
@@ -77,9 +79,9 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend-Ready-00ff87?style=for-the-badge&logo=springboot&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Training_Models-00ff87?style=for-the-badge&logo=pytorch&logoColor=black)
-![DevOps](https://img.shields.io/badge/DevOps-Automating-00ff87?style=for-the-badge&logo=docker&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-Ready-0a0a0a?style=for-the-badge&logo=springboot&logoColor=00ff87&labelColor=0a0a0a)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Training_Models-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=00ff87&labelColor=0a0a0a)
+![DevOps](https://img.shields.io/badge/DevOps-Automating-0a0a0a?style=for-the-badge&logo=docker&logoColor=00ff87&labelColor=0a0a0a)
 ![Open To Work](https://img.shields.io/badge/Open_To-Work-0a0a0a?style=for-the-badge&logo=handshake&logoColor=00ff87)
 
 </div>
@@ -105,14 +107,17 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas,tensorflow&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas,tensorflow&theme=dark" alt="AI/ML stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,numpy,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,numpy,pandas&theme=dark" alt="AI/ML stack" />
 </picture>
 
 <br>
 
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FFD21E&labelColor=0a0a0a)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0a0a0a)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logoColor=00ff87&labelColor=0a0a0a)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0a0a0a?style=for-the-badge&logoColor=00fff2&labelColor=0a0a0a)
+![AI Frameworks](https://img.shields.io/badge/AI_Frameworks-0a0a0a?style=for-the-badge&logoColor=ff00c8&labelColor=0a0a0a)
 
 </div>
 
@@ -123,8 +128,8 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
 </picture>
 
 </div>
@@ -136,9 +141,13 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=dark" alt="DevOps & Cloud stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,jenkins,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,jenkins,linux,nginx&theme=dark" alt="DevOps & Cloud stack" />
 </picture>
+
+<br>
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0a0a?style=for-the-badge&logoColor=00fff2&labelColor=0a0a0a)
 
 </div>
 
@@ -149,8 +158,8 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=dark" alt="Databases & Tools stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,firebase,postman,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,firebase,postman,git&theme=dark" alt="Databases & Tools stack" />
 </picture>
 
 </div>
@@ -251,7 +260,7 @@ E-learning platform with course management and clean UI.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhiram274)
-[![Strength](https://img.shields.io/badge/Strength-Graphs_%26_Trees-00ff87?style=for-the-badge)]()
+[![Strength](https://img.shields.io/badge/Strength-Graphs_%26_Trees-0a0a0a?style=for-the-badge&logoColor=00ff87&labelColor=0a0a0a)]()
 
 | Topic | Progress |
 |---|---|
@@ -272,7 +281,7 @@ E-learning platform with course management and clean UI.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/★_Portfolio-Abhiram_Kosuru_%7C_Full_Stack_%26_AI%2FML_Specialist-00ff87?style=for-the-badge&logo=vercel&logoColor=black)](https://abhiram-portfolio-six.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/★_Portfolio-Abhiram_Kosuru_%7C_Full_Stack_%26_AI%2FML_Specialist-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00ff87&labelColor=0a0a0a)](https://abhiram-portfolio-six.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram_Kosuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
 [![Gmail](https://img.shields.io/badge/Gmail-abhiramkosuru967-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramkosuru967@gmail.com)
