@@ -368,7 +368,7 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/abhiramkosuru?theme=transparent&font=Nobile" />
+<img src="https://leetcard.jacoblin.cool/abhiramkosuru?theme=catppuccinMocha&font=Tajawal" />
 
 </div>
 
