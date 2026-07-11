@@ -13,11 +13,11 @@
 ---
 
 <!-- 🔗 PORTFOLIO HIGHLIGHT BAR -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00fff2,100:0a0a0a&height=130&section=header&text=abhiram-portfolio-six.vercel.app&fontSize=20&fontColor=00ff87&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Specialist%20%E2%80%A2%20Product%20Builder&descAlignY=62&descSize=13&descColor=ffffff&width=1000" />
 
-</div>
+</div> -->
 
 <table width="100%">
 <tr><td align="center">
