@@ -12,6 +12,19 @@
 
 ---
 
+<!-- 🔗 PORTFOLIO HIGHLIGHT BAR -->
+<div align="center">
+
+<a href="https://abhiram-portfolio-six.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff87,100:0a0a0a&height=70&section=header&text=%F0%9F%9A%80%20View%20My%20Full%20Portfolio&fontSize=26&fontColor=0a0a0a&fontAlignY=65&animation=twinkle&width=800" alt="Abhiram Kosuru Portfolio | Full Stack Developer | AI/ML Specialist | Abhi Portfolio" />
+</a>
+
+**[Abhiram Kosuru Portfolio | Full Stack Developer | AI/ML Specialist | Abhi Portfolio →](https://abhiram-portfolio-six.vercel.app/)**
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhiram274&label=Profile+Views&color=00ff87&style=flat-square)
@@ -25,63 +38,110 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ```yaml
-name        : Abhiram Kosuru
-currently   : AI/ML Student + Backend Developer
-building    : systems that are secure, fast, and actually work
+whoami      : Abhiram Kosuru
+role        : AI/ML Student • Backend Developer • DevOps Explorer
+mission     : building systems that are secure, fast, and actually work
 ml_stack    : [Python, PyTorch, scikit-learn, NumPy, Pandas, OpenCV]
 ml_focus    : [Computer Vision, NLP, Model Deployment, MLOps]
 backend     : [Java, Spring Boot, REST APIs, Microservices, Docker, AWS]
 frontend    : [React, Next.js, TypeScript]
 devops      : [GitHub Actions, Jenkins, Linux, Nginx, CI/CD]
-dsa         : 200+ LeetCode — Graphs & Dynamic Programming
+dsa         : "250+ LeetCode — Graphs & Dynamic Programming"
 security    : [Cloud Security, IDS/IPS, Secure SDLC, Firewalls]
-status      : open to backend, AI/ML, and DevOps roles
+status      : "open to backend, AI/ML, and DevOps roles ⚡"
 ```
+
+</td>
+<td width="40%" valign="top">
+
+> 🧩 **Currently:** shipping backends by day, training models by night
+>
+> 🎯 **Focus:** Computer Vision + scalable Spring Boot systems
+>
+> 🌱 **Learning:** Transformers, RAG pipelines, MLOps on AWS
+>
+> 💬 **Ask me about:** Java, PyTorch, Docker, Graph algorithms
+>
+> 📫 **Reach me:** [abhiramkosuru967@gmail.com](mailto:abhiramkosuru967@gmail.com)
+>
+> 🔗 **Portfolio:** [abhiram-portfolio-six.vercel.app](https://abhiram-portfolio-six.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-Ready-00ff87?style=for-the-badge&logo=springboot&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Training_Models-00ff87?style=for-the-badge&logo=pytorch&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-Automating-00ff87?style=for-the-badge&logo=docker&logoColor=black)
+![Open To Work](https://img.shields.io/badge/Open_To-Work-0a0a0a?style=for-the-badge&logo=handshake&logoColor=00ff87)
+
+</div>
 
 ---
 
 ## ⚡ Tech Stack
 
-**AI / ML**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=AI%20%2F%20ML&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas&theme=light" alt="AI/ML stack" />
+</picture>
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Languages & Backend**
+</div>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=Languages%20%26%20Backend&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+</div>
 
-**DevOps & Cloud**
+<div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=light" alt="Backend & languages stack" />
+</picture>
 
-**Databases & Tools**
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=DevOps%20%26%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=light" alt="DevOps & Cloud stack" />
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=Databases%20%26%20Tools&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=light" alt="Databases & Tools stack" />
+</picture>
+
+</div>
 
 ---
 
@@ -89,17 +149,29 @@ status      : open to backend, AI/ML, and DevOps roles
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiram274&theme=github_dark" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiram274&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiram274&theme=default" width="90%" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=github-compact&hide_border=true&color=00ff87&line=00ff87&point=ffffff&area=true&area_color=00ff8720" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=github-compact&hide_border=true&color=00ff87&line=00ff87&point=ffffff&area=true&area_color=00ff8720&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram274&theme=minimal&hide_border=true&color=006644&line=00b368&point=0a0a0a&area=true&area_color=00ff8720&bg_color=ffffff" width="90%" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut&theme=github_dark&hide_border=true&langs_count=8&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" width="38%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut&theme=github_dark&hide_border=true&langs_count=8&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram274&layout=donut&hide_border=true&langs_count=8&title_color=00b368&text_color=24292f&bg_color=ffffff" width="38%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhiram274&theme=github-dark-blue&hide_border=true&fire=00ff87&ring=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" width="50%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhiram274&theme=github-dark-blue&hide_border=true&fire=00ff87&ring=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=abhiram274&theme=default&hide_border=true&fire=00b368&ring=00b368&currStreakLabel=00b368" width="50%" />
+</picture>
 
 </div>
 
@@ -119,11 +191,40 @@ status      : open to backend, AI/ML, and DevOps roles
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| [**Placement Tracker**](https://github.com/abhiram274/Placement-Tracker) | `Java` `Spring Boot` `React` | Placement management system with role-based access control |
-| [**LunaBot**](https://github.com/abhiram274/LunaBot) | `ROS2` `YOLO` `Python` `OpenCV` | Autonomous robot using real-time object detection with YOLO |
-| [**E-Learning Marketplace**](https://github.com/satya-datta/ReadGro) | `Next.js` `TypeScript` | E-learning platform with course management and clean UI |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎓 [Placement Tracker](https://github.com/abhiram274/Placement-Tracker)
+`Java` `Spring Boot` `React`
+
+Placement management system with role-based access control.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 [LunaBot](https://github.com/abhiram274/LunaBot)
+`ROS2` `YOLO` `Python` `OpenCV`
+
+Autonomous robot using real-time object detection with YOLO.
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 [E-Learning Marketplace](https://github.com/satya-datta/ReadGro)
+`Next.js` `TypeScript`
+
+E-learning platform with course management and clean UI.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔥 See more work, case studies & live demos on my portfolio → [abhiram-portfolio-six.vercel.app](https://abhiram-portfolio-six.vercel.app/)**
+
+</div>
 
 ---
 
@@ -136,14 +237,14 @@ status      : open to backend, AI/ML, and DevOps roles
 
 | Topic | Progress |
 |---|---|
-| Arrays & Hashing | ✅ Solid |
-| Two Pointers | ✅ Solid |
-| Binary Search | ✅ Solid |
-| Sliding Window | 🔄 Getting better |
-| Trees & Graphs | ✅ Strong — main focus |
-| Backtracking | ✅ Understand it well |
-| Heap / Priority Queue | 🔄 Getting better |
-| Dynamic Programming | 🛠️ Working on it |
+| Arrays & Hashing | ![](https://progress-bar.xyz/100?title=Solid&color=00ff87&width=180) |
+| Two Pointers | ![](https://progress-bar.xyz/100?title=Solid&color=00ff87&width=180) |
+| Binary Search | ![](https://progress-bar.xyz/100?title=Solid&color=00ff87&width=180) |
+| Sliding Window | ![](https://progress-bar.xyz/65?title=Improving&color=ffb400&width=180) |
+| Trees & Graphs | ![](https://progress-bar.xyz/95?title=Strong&color=00ff87&width=180) |
+| Backtracking | ![](https://progress-bar.xyz/85?title=Solid&color=00ff87&width=180) |
+| Heap / Priority Queue | ![](https://progress-bar.xyz/60?title=Improving&color=ffb400&width=180) |
+| Dynamic Programming | ![](https://progress-bar.xyz/55?title=In+Progress&color=ff5c5c&width=180) |
 
 </div>
 
@@ -153,10 +254,11 @@ status      : open to backend, AI/ML, and DevOps roles
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/★_Portfolio-Abhiram_Kosuru_%7C_Full_Stack_%26_AI%2FML_Specialist-00ff87?style=for-the-badge&logo=vercel&logoColor=black)](https://abhiram-portfolio-six.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram_Kosuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-kosuru-7974b6231)
 [![Gmail](https://img.shields.io/badge/Gmail-abhiramkosuru967-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramkosuru967@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abhiram274-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram274)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiram-portfolio-six.vercel.app)
 
 </div>
 
