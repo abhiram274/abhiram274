@@ -89,58 +89,76 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=AI%20%2F%20ML&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0a0a,50:8000ff,100:0a0a0a&height=90&section=header&text=SYSTEM.STACK&fontSize=38&fontColor=00ff87&animation=twinkle&fontAlignY=60&desc=%3E%20compiling%20skillset...%20%5BOK%5D&descAlignY=85&descSize=13&descColor=00fff2&width=1000" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=600&color=00FFF2&center=true&vCenter=true&width=700&lines=%3E+initializing+neural_stack.exe...;%3E+loading+backend_core.dll...;%3E+status%3A+ALL+SYSTEMS+ONLINE)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:00ff87&height=38&section=header&text=%3E_%20AI%20%2F%20ML%20CORE&fontSize=15&fontColor=00fff2&fontAlignY=60&width=1000" />
 </div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas&theme=light" alt="AI/ML stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas,tensorflow&theme=dark" alt="AI/ML stack" />
 </picture>
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br>
+
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FFD21E&labelColor=0a0a0a)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0a0a0a)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=Languages%20%26%20Backend&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:ff00c8&height=38&section=header&text=%3E_%20LANGUAGES%20%2F%20BACKEND&fontSize=15&fontColor=00ff87&fontAlignY=60&width=1000" />
 </div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=light" alt="Backend & languages stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
 </picture>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=DevOps%20%26%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:00fff2&height=38&section=header&text=%3E_%20DEVOPS%20%2F%20CLOUD&fontSize=15&fontColor=ff00c8&fontAlignY=60&width=1000" />
 </div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=light" alt="DevOps & Cloud stack" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,linux,nginx&theme=dark" alt="DevOps & Cloud stack" />
 </picture>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00ff87&height=45&section=header&text=Databases%20%26%20Tools&fontSize=20&fontColor=ffffff&fontAlignY=60&width=400" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:b026ff&height=38&section=header&text=%3E_%20DATABASES%20%2F%20TOOLS&fontSize=15&fontColor=f8ff00&fontAlignY=60&width=1000" />
 </div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=light" alt="Databases & Tools stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,git&theme=dark" alt="Databases & Tools stack" />
 </picture>
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0a0a,50:00ff87,100:0a0a0a&height=35&section=header&text=%5B+STACK+FULLY+LOADED+%E2%9C%93+%5D&fontSize=13&fontColor=ffffff&fontAlignY=60&width=1000" />
 </div>
 
 ---
