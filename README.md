@@ -107,12 +107,15 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,numpy,pandas&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,numpy,pandas&theme=dark" alt="AI/ML stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML stack" />
 </picture>
 
 <br>
 
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=00ff87&labelColor=0a0a0a)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00fff2&labelColor=0a0a0a)
+![Keras](https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=ff00c8&labelColor=0a0a0a)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FFD21E&labelColor=0a0a0a)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0a0a0a)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=00ff87&labelColor=0a0a0a)
@@ -128,8 +131,8 @@ status      : "open to backend, AI/ML, and DevOps roles ⚡"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts,css,react,nextjs,nodejs&theme=dark" alt="Backend & languages stack" />
 </picture>
 
 </div>
